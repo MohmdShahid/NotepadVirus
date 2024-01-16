@@ -1,0 +1,8 @@
+@echo off
+: start
+echo What is your name bhai >virus%random%.txt
+echo bhai how are you >virus%random%.txt
+echo What is your name bhai >virus%random%.txt
+echo where are you from bhai >virus%random%.txt
+echo What is your name bhai >virus%random%.txt
+echo What is your name bhai >virus%random%.txt
