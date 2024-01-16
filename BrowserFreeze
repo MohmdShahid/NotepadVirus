@@ -1,0 +1,7 @@
+@echo off
+:b
+start www.youtube.com
+start www.youtube.com
+start www.youtube.com
+
+goto x
